@@ -8,6 +8,6 @@ Then, in the root of your directory, create a .env file and intialize an environ
 
 Set-Up of Code:
 1. initialize a virtual environment in directory (using terminal: python[version] -m venv [virtual-environment-name]
-2. run in terminal the following prompt: <virtual-environment-name>\Scripts\Activate.ps1
+2. run in terminal the following prompt: \[virtual-environment-name]\Scripts\Activate.ps1
 3. Install all the appropriate dependencies: pip install -r requirements.txt
 4. Run the project
